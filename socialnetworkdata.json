@@ -1,0 +1,76 @@
+{
+  "nodes": [
+    {"id": "Yi", "group": 1},
+
+    {"id": "Father", "group": 2},
+    {"id": "Mother", "group": 2},
+
+    {"id": "Pyating", "group": 3},
+    {"id": "Pmeng", "group": 3},
+
+    {"id": "Qi", "group": 4},
+    {"id": "Hong", "group": 4},
+
+    {"id": "Suo", "group": 5},
+    {"id": "Jie", "group": 5},
+    {"id": "Fei", "group": 5},
+
+    {"id": "Xiao", "group": 6},
+    {"id": "Ru", "group": 6},
+    {"id": "Yang", "group": 6},
+
+    {"id": "Lucy", "group": 7},
+    {"id": "Xudong", "group": 7},
+    {"id": "Ruican", "group": 7},
+
+    {"id": "Tveditor", "group": 8},
+    {"id": "Inter","group": 8}
+
+
+
+
+  ],
+  "links": [
+    {"source": "Mother", "target": "Yi", "value": 15},
+    {"source": "Father", "target": "Yi", "value": 15},
+    {"source": "Father", "target": "Mother", "value": 15},
+
+    {"source": "Pyating", "target": "Yi", "value": 3},
+    {"source": "Pmeng", "target": "Yi", "value": 3},
+    {"source": "Pmeng", "target": "Pyating", "value": 3},
+
+    {"source": "Qi", "target": "Yi", "value": 8},
+    {"source": "Hong", "target": "Yi", "value": 10},
+    {"source": "Qi", "target": "Hong", "value": 3},
+
+    {"source": "Suo", "target": "Yi", "value": 7},
+    {"source": "Fei", "target": "Yi", "value": 5},
+    {"source": "Jie", "target": "Yi", "value": 6},
+    {"source": "Suo", "target": "Fei", "value": 4},
+    {"source": "Jie", "target": "Suo", "value": 6},
+    {"source": "Jie", "target": "Fei", "value": 6},
+
+
+    {"source": "Xiao", "target": "Yi", "value": 10},
+    {"source": "Ru", "target": "Yi", "value": 10},
+    {"source": "Yang", "target": "Yi", "value": 10},
+
+    {"source": "Xiao", "target": "Yang", "value": 10},
+
+    {"source": "Lucy", "target": "Yi", "value": 6},
+    {"source": "Xudong", "target": "Yi", "value": 6},
+    {"source": "Ruican", "target": "Yi", "value": 6},
+
+    {"source": "Lucy", "target": "Xudong", "value": 6},
+
+
+    {"source": "Tveditor", "target": "Yi", "value": 3},
+
+    {"source": "Inter", "target": "Yi", "value": 4},
+
+    {"source": "Tveditor", "target": "Inter", "value": 3}
+
+
+
+  ]
+}
