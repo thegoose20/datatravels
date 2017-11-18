@@ -1,0 +1,18 @@
+source,target,value
+Bank of China,Elvis,1.2
+Taobao,Elvis,2.0
+Alipay,Elvis,2.0
+Express,Elvis,2.0
+Royal Bank of Scotland,Elvis,2.0
+Elvis,Bank of China,1.2
+Elvis,Taobao,2.0
+Elvis,Alipay,2.0
+Elvis,Express,2.0
+Bank of China,Intermediate Bank,2.0
+Intermediate Bank,Bank of China,2.0
+Intermediate Bank,Royal Bank of Scotland,2.0
+Royal Bank of Scotland,Intermediate Bank,2.0
+Taobao,Alipay,2.0
+Alipay,Taobao,2.0
+Taobao,Express,2.0
+Express,Taobao,2.0
