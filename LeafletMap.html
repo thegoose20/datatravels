@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<meta charset="utf-8">
+<head>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css"
+  integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ=="
+  crossorigin=""/>
+  <!-- Make sure you put this AFTER Leaflet's CSS -->
+  <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"
+  integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
+  crossorigin=""></script>
+  <script src="https://github.com/evanplaice/jquery-csv.git"></script>
+
+  <style>
+    #mapid { height: 500px; }
+  </style>
+
+</head>
+<body>
+  <div id="mapid"></div>
+
+  <script>
+    var mymap = L.map('mapid')
+
+    mymap.setView([20, -0.09], 2);
+
+    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18,
+    id: 'mapbox.streets',
+    accessToken: 'pk.eyJ1IjoidGhlZ29vc2UyMCIsImEiOiJjamE3NWxzamxhdGI4MnFwYXp0enNsdHc5In0.tXSCQA5gRyZr6KrLnpqPFg'}).addTo(mymap);
+
+    // Facebook
+    var F1 = L.marker([28.66, -81.44]).addTo(mymap);
+    F1.bindPopup("<b>Facebook</b><br>Forest City, U.S.").openPopup();
+    var F2 = L.marker([65.5841501,	22.1546497]).addTo(mymap);
+    F2.bindPopup("<b>Facebook</b><br>Lulea, Sweden").openPopup();
+    var F3 = L.marker([41.646112,	-93.475804]).addTo(mymap);
+    F3.bindPopup("<b>Facebook</b><br>Altoona, U.S.").openPopup();
+    var F4 = L.marker([44.298833,	-120.859395]).addTo(mymap);
+    F4.bindPopup("<b>Facebook</b><br>Prineville").openPopup();
+    var F5 = L.marker([32.725409,	-97.3208466]).addTo(mymap);
+    F5.bindPopup("<b>Facebook</b><br>Fort Worth, U.S.").openPopup();
+    var F6 = L.marker([53.410562,	-6.4426]).addTo(mymap);
+    F6.bindPopup("<b>Facebook</b><br>Clonee, Ireland").openPopup();
+    var F7 = L.marker([34.812554,	-106.780263]).addTo(mymap);
+    F7.bindPopup("<b>Facebook</b><br>Los Lunas, U.S.").openPopup();
+    var F8 = L.marker([39.031176,	-77.470283]).addTo(mymap);
+    F8.bindPopup("<b>Facebook</b><br>Ashburn, U.S.").openPopup();
+
+
+/*
+    var circle = L.circle([51.508, -0.11], {
+      color: 'red',
+      fillcolor: '#f03',
+      fillOpacity: 0.5,
+      radius: 5000
+    }).addTo(mymap)
+    var polygon = L.polygon([
+    [51.509, -0.08],
+    [51.503, -0.06],
+    [51.51, -0.047]
+    ]).addTo(mymap);*/
+
+
+  </script>
+</body>
