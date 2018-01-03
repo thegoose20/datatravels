@@ -1,0 +1,785 @@
+﻿{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.475804, 41.646112 ]
+    },
+    "properties": {
+    "FIELD1":"Facebook",
+    "FIELD2":"Altoona",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.470283, 39.031176 ]
+    },
+    "properties": {
+    "FIELD1":"Facebook",
+    "FIELD2":"Ashburn",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.4426, 53.410562 ]
+    },
+    "properties": {
+    "FIELD1":"Facebook",
+    "FIELD2":"Clonee",
+    "FIELD3":"Ireland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.444877, 28.661479 ]
+    },
+    "properties": {
+    "FIELD1":"Facebook",
+    "FIELD2":"Forest City",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3208466, 32.725409 ]
+    },
+    "properties": {
+    "FIELD1":"Facebook",
+    "FIELD2":"Fort Worth",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.780263, 34.812554 ]
+    },
+    "properties": {
+    "FIELD1":"Facebook",
+    "FIELD2":"Los Lunas",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.1546497, 65.5841501 ]
+    },
+    "properties": {
+    "FIELD1":"Facebook",
+    "FIELD2":"Lulea",
+    "FIELD3":"Sweden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.859395, 44.298833 ]
+    },
+    "properties": {
+    "FIELD1":"Facebook",
+    "FIELD2":"Prineville",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.475804, 41.646112 ]
+    },
+    "properties": {
+    "FIELD1":"Instagram",
+    "FIELD2":"Altoona",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.470283, 39.031176 ]
+    },
+    "properties": {
+    "FIELD1":"Instagram",
+    "FIELD2":"Ashburn",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.4426, 53.410562 ]
+    },
+    "properties": {
+    "FIELD1":"Instagram",
+    "FIELD2":"Clonee",
+    "FIELD3":"Ireland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.444877, 28.661479 ]
+    },
+    "properties": {
+    "FIELD1":"Instagram",
+    "FIELD2":"Forest City",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3208466, 32.725409 ]
+    },
+    "properties": {
+    "FIELD1":"Instagram",
+    "FIELD2":"Fort Worth",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.780263, 34.812554 ]
+    },
+    "properties": {
+    "FIELD1":"Instagram",
+    "FIELD2":"Los Lunas",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.1546497, 65.5841501 ]
+    },
+    "properties": {
+    "FIELD1":"Instagram",
+    "FIELD2":"Lulea",
+    "FIELD3":"Sweden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.859395, 44.298833 ]
+    },
+    "properties": {
+    "FIELD1":"Instagram",
+    "FIELD2":"Prineville",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.819836, 1.352083 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"",
+    "FIELD3":"Singapore"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.8999023, 52.373084 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Amsterdam",
+    "FIELD3":"Netherlands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.407396, 39.9042 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Beijing",
+    "FIELD3":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.066801, 30.572815 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Chengdu",
+    "FIELD3":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.912251, 29.431586 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Chongqing",
+    "FIELD3":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8066635, 32.7830556 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Dallas",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6833334, 50.1166667 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Frankfurt",
+    "FIELD3":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.264385, 23.12911 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Guangzhou",
+    "FIELD3":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.15507, 30.274084 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Hangzhou",
+    "FIELD3":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.109497, 22.396428 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Hong Kong",
+    "FIELD3":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1255327, 51.5084153 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"London",
+    "FIELD3":"United Kingdom"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.5602798, 37.8694444 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Mainland (city unknown)",
+    "FIELD3":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.0333328, 22.9333333 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Mainland (city unknown)",
+    "FIELD3":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.3227768, 43.88 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Mainland (city unknown)",
+    "FIELD3":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.9666672, 28.2 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Mainland (city unknown)",
+    "FIELD3":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.9972229, 36.6683333 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Mainland (city unknown)",
+    "FIELD3":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6155548, 55.7522222 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Moscow",
+    "FIELD3":"Russia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.8479385, 19.01441 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Mumbai",
+    "FIELD3":"India"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9997253, 37.5663889 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Seoul",
+    "FIELD3":"South Korea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4580536, 31.2222222 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Shanghai",
+    "FIELD3":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.473702, 31.23039 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Shanghai",
+    "FIELD3":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.057865, 22.543096 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Shenzhen",
+    "FIELD3":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.057543, 37.387474 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Silicon Valley",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.2073212, -33.86785 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Sydney",
+    "FIELD3":"Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.361648, 39.343357 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Tianjin",
+    "FIELD3":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6916809, 35.6895266 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Tokyo",
+    "FIELD3":"Japan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4163055, 43.7001138 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Toronto",
+    "FIELD3":"Canada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0363693, 38.8951118 ]
+    },
+    "properties": {
+    "FIELD1":"WeChat",
+    "FIELD2":"Washington D.C.",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.370216, 4.895168 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Amsterdam",
+    "FIELD3":"The Netherlands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.796988, 32.776664 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Dallas",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.270718, 13.082680 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Chenai",
+    "FIELD3":"India"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.682127, 50.110922 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Frankfurt",
+    "FIELD3":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.190797, 22.261919,  ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Hong Kong",
+    "FIELD3":"Japan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.369803, 29.760427 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Houston",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127758, 51.507351 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"London",
+    "FIELD3":"United Kingdom"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.963058, -37.813628]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Melbourne",
+    "FIELD3":"Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.189982, 45.464204 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Milan",
+    "FIELD3":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.567256, 45.501689 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Montreal",
+    "FIELD3":"Canada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.752245, 59.913869 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Oslo",
+    "FIELD3":"Norway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222, 48.856614 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Paris",
+    "FIELD3":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.389888, 20.588818 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Querétaro",
+    "FIELD3":"Mexico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.886329, 37.338208 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"San Jose",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.633309, -23.550520 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Sao Paolo",
+    "FIELD3":"Brazil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.332071, 47.606209 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Seattle",
+    "FIELD3":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.977969, 37.566535 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Seoul",
+    "FIELD3":"South Korea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.209296, -33.868820 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Sydney",
+    "FIELD3":"Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.691706, 35.689487 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Tokyo",
+    "FIELD3":"Japan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.383184, 43.653226 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Toronto",
+    "FIELD3":"Canada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.036871, 38.907192 ]
+    },
+    "properties": {
+    "FIELD1":"WhatsApp",
+    "FIELD2":"Washington D.C.",
+    "FIELD3":"United States"
+    }
+  }
+]
+}
