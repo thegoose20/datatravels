@@ -101,7 +101,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -93.475804, 41.646112 ]
+       "coordinates":  [ -93.575804, 41.746112 ]
     },
     "properties": {
     "FIELD1":"Instagram",
@@ -113,7 +113,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -77.470283, 39.031176 ]
+       "coordinates":  [ -77.5702839, 39.1311769 ]
     },
     "properties": {
     "FIELD1":"Instagram",
@@ -125,7 +125,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -6.4426, 53.410562 ]
+       "coordinates":  [ -6.54269, 53.5105629 ]
     },
     "properties": {
     "FIELD1":"Instagram",
@@ -137,7 +137,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -81.444877, 28.661479 ]
+       "coordinates":  [ -81.5448779, 28.7614799 ]
     },
     "properties": {
     "FIELD1":"Instagram",
@@ -149,7 +149,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -97.3208466, 32.725409 ]
+       "coordinates":  [ -97.52084669, 32.8254099 ]
     },
     "properties": {
     "FIELD1":"Instagram",
@@ -161,7 +161,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -106.780263, 34.812554 ]
+       "coordinates":  [ -106.5802639, 34.9125549 ]
     },
     "properties": {
     "FIELD1":"Instagram",
@@ -173,7 +173,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 22.1546497, 65.5841501 ]
+       "coordinates":  [ 22.25464979, 65.68415019 ]
     },
     "properties": {
     "FIELD1":"Instagram",
@@ -185,7 +185,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -120.859395, 44.298833 ]
+       "coordinates":  [ -120.9593959, 44.3988339 ]
     },
     "properties": {
     "FIELD1":"Instagram",
@@ -257,7 +257,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -96.8066635, 32.7830556 ]
+       "coordinates":  [ -96.9066635, 32.8830556 ]
     },
     "properties": {
     "FIELD1":"WeChat",
@@ -533,7 +533,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 52.370216, 4.895168 ]
+       "coordinates":  [ 4.9951689, 52.4702169 ]
     },
     "properties": {
     "FIELD1":"WhatsApp",
@@ -545,7 +545,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -96.796988, 32.776664 ]
+       "coordinates":  [ -96.7969889, 32.7766649 ]
     },
     "properties": {
     "FIELD1":"WhatsApp",
@@ -569,7 +569,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.682127, 50.110922 ]
+       "coordinates":  [ 8.7821279, 50.2109229 ]
     },
     "properties": {
     "FIELD1":"WhatsApp",
@@ -581,7 +581,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 114.190797, 22.261919  ]
+       "coordinates":  [ 114.2907979, 22.3619199  ]
     },
     "properties": {
     "FIELD1":"WhatsApp",
@@ -605,7 +605,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -0.127758, 51.507351 ]
+       "coordinates":  [ -0.2277589, 51.6073519 ]
     },
     "properties": {
     "FIELD1":"WhatsApp",
@@ -725,7 +725,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 126.977969, 37.566535 ]
+       "coordinates":  [ 126.087969, 37.666535 ]
     },
     "properties": {
     "FIELD1":"WhatsApp",
@@ -737,7 +737,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 151.209296, -33.868820 ]
+       "coordinates":  [ 151.3092969, -33.9688209 ]
     },
     "properties": {
     "FIELD1":"WhatsApp",
@@ -749,7 +749,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.691706, 35.689487 ]
+       "coordinates":  [ 139.7917069, 35.7894879 ]
     },
     "properties": {
     "FIELD1":"WhatsApp",
@@ -761,7 +761,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -79.383184, 43.653226 ]
+       "coordinates":  [ -79.4831849, 43.7532269 ]
     },
     "properties": {
     "FIELD1":"WhatsApp",
@@ -773,7 +773,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -77.036871, 38.907192 ]
+       "coordinates":  [ -77.1368719, 38.0171929 ]
     },
     "properties": {
     "FIELD1":"WhatsApp",
