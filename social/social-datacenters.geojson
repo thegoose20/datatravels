@@ -581,7 +581,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 114.190797, 22.261919,  ]
+       "coordinates":  [ 114.190797, 22.261919  ]
     },
     "properties": {
     "FIELD1":"WhatsApp",
